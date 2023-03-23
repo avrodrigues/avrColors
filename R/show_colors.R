@@ -1,4 +1,4 @@
-#' Show colors in the plot
+#' Show colors of a palette
 #'
 #'
 
