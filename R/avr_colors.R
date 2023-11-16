@@ -3,29 +3,20 @@
 avr_colors <- list()
 
 
-avr_colors$serena <- c(
-  "#BE4766",
-  "#8AD0D9",
-  "#8EDA72",
-  "#F3E853",
-  "#FFB343",
-  "#E63933"
-)
-
 avr_colors$blue_gold <- c(
-  "#3B3C68",
-  "#C1DBCB",
-  "#DFA42F",
-  "#846435"
+  "#363870",
+  "#589eab",
+  "#d3a838",
+  "#3d291a"
 )
 
 avr_colors$blue_gold_red <- c(
-  "#303260",
-  "#88beca",
-  "#e4b434",
-  "#7b5a28",
-  "#e19296",
-  "#c62f22"
+  "#363870",
+  "#589eab",
+  "#d3a838",
+  "#3d291a",
+  "#BB4455",
+  "#f9c0c2"
 
 )
 
